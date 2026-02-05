@@ -1,0 +1,7 @@
+{
+  "name": "ACT Values Compass",
+  "description": "A comprehensive values tracker based on Acceptance and Commitment Therapy (ACT), helping you align daily actions with your deeply held life principles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
